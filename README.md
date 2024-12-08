@@ -23,9 +23,13 @@ Creating a machine learning model to predict prices on Belgium's real estate sal
 
 -.pip install pandas matplotlib sklearn
 
-      -Version: name-Pandas 2.2.3   Matplotlib 1.16.0   sklearn 1.5.2  
+      -Version: name-Pandas 2.2.3   Matplotlib 1.16.0   sklearn 1.5.2  sklearn
 
 ## Usage
+
+-Retrieve a list of properties from the HTML page source of the website.
+
+-Extract poperties' information from immoweb for each property.
 
 
 
@@ -33,7 +37,10 @@ Creating a machine learning model to predict prices on Belgium's real estate sal
 
 
 ## Visual
-![Qualitative VS Quantitative](./charts/plot.png)
+
+![Actual vs predicted price](./plots/Actual vs predicted prices.png)
+
+![correlation matrix heat map](./plots/correlation.png)
 
 
 
