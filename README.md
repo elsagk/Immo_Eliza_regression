@@ -38,7 +38,7 @@ Creating a machine learning model to predict prices on Belgium's real estate sal
 
 ## Visual
 
-![Actual vs predicted price](./plots\Actual_predicted_prices.png)
+![Actual vs predicted price](./plots/Actual_predicted_prices.png)
 
 ![correlation matrix heat map](./plots/correlation.png)
 
