@@ -27,9 +27,9 @@ Creating a machine learning model to predict prices on Belgium's real estate sal
 
 ## Usage
 
-- Retrieve a list of properties from the HTML page source of the website.
+-Retrieve a list of properties from the HTML page source of the website.
 
-- Extract poperties' information from immoweb for each property.
+-Extract poperties' information from immoweb for each property.
 
 
 
